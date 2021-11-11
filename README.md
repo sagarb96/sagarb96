@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarb96
-- 👀 I’m interested in building software.
-- 🌱 I’m currently learning ML.
+- 👀 I’m interested in building good software.
+- 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on anything exciting.
 - 📫 Reach me at my email sagr.biswas@gmail.com
 
